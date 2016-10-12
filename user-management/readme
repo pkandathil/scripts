@@ -1,0 +1,13 @@
+To make sure a user can log on without a password via ssh also do the following. 
+```
+vi /etc/ssh/sshd_config
+
+PubkeyAuthentication yes
+
+AuthorizedKeyFile    .ssh/authorized_keys
+
+PasswordAuthentication no
+```
+```
+sudo service ssh restart
+```
