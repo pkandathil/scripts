@@ -7,5 +7,5 @@ mkdir /home/$1/.ssh
 cd /home/$1/
 touch .ssh/authorized_keys
 chown -R $1:$1 .ssh
-chmod -R 600 .ssh
+chmod -R 700 .ssh
 
