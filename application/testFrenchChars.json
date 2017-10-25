@@ -1,0 +1,190 @@
+{
+    "global": {
+      "back": "Retour"
+    },
+    "error": {
+      "h1": "Nous joindre",
+      "p1": "Un problème est survenu lors de l’ajout de la montre à votre forfait. Pour obtenir de l’aide, veuillez communiquer avec nous.",
+ 
+      "status": "Ouvert",
+      "p2": "À partir de votre téléphone mobile",
+      "a1": "*611",
+      "p3": "Numéro sans frais",
+      "a2": "1-866-558-2273",
+      "p4": "À partir de numéros internationaux ou américains aux É.-U.",
+      "a3": "1-866-711-9666",
+ 
+      "a4": "Voir d’autres moyens de communiquer avec nous.",
+ 
+      "p5": "Vous aurez peut-être à fournir les renseignements suivants concernant votre montre :",
+      "p6": "No IMEI : ",
+      "p7": "No EID : ",
+      "b1": "Fermer"
+    },
+    "contact": {
+      "p1": "Pour modifier votre option de montre, la rétablir, l’annuler, ou pour toute autre question connexe, veuillez communiquer avec nous."
+    },
+    "s1": {
+      "h1": "Montre Apple Watch",
+      "p1": "Téléphonez et textez, rien qu’avec votre montre.",
+      "b1": "En savoir plus"
+    },
+    "tc": {
+      "h1": "Modalités des appels Wi-Fi",
+      "p1": "En plus d’offrir la connectivité cellulaire, la montre est compatible avec la fonction d’appels Wi-Fi de TELUS.",
+      
+      "p2": "LES PRÉSENTES MODALITÉS DES APPELS WI-FI (les « Modalités ») RÉGISSENT L’UTILISATION DE LA FONCTION APPELS WI-FI (« Appels Wi-Fi ») ET CONTIENNENT DES RENSEIGNEMENTS IMPORTANTS, Y COMPRIS LES CONTRAINTES LIÉES AU SERVICE 9-1-1 ET DES DÉTAILS SUR LES FRAIS DE SERVICE. LES TARIFS COURANTS DE VOTRE FORFAIT DE SERVICES MOBILES S’APPLIQUENT, Y COMPRIS LE TEMPS D’ANTENNE LOCAL ET INTERURBAIN, LES MESSAGES TEXTE ET LES FRAIS PAYABLES À L’USAGE.",
+      "p3": "Consultez la foire aux questions à l'adresse <a class='link link--descent' href='https://www.telus.com/en/bc/support/article/wifi-calling-explained?INTCMP=VAN_wificalling'>telus.com/appelswifi</a> pour obtenir d'autres renseignements sur le service Appels Wi-Fi. Les présentes Modalités s'ajoutent et s'intègrent aux <a class='link link--descent' href='https://www.telus.com/en/bc/support/article/service-terms-between-you-and-telus?lang=en&prov=bc&INTCMP=TcomFooter_terms'>TModalités de service TELUS</a>, et elles font partie de l'entente conclue avec vous. Vous convenez de faire respecter ces Modalités par toutes les personnes qui utilisent le service Appels Wi-Fi sur votre appareil.",
+      "h2": "1. Qu'est-ce que le service Appels Wi-Fi?",
+      "p4": "Le service Appels Wi-Fi vous permet d'effectuer et de recevoir des appels téléphoniques et d'envoyer et de recevoir des messages texte sur votre appareil au moyen d'une connexion Wi-Fi. Dans la plupart des cas, lorsque vous avez accès au service Appels Wi-Fi et à un réseau mobile, votre appareil basculera automatiquement sur le réseau mobile.",
+      "h3": "2. Est-ce que j'ai besoin d'un appareil ou d'un forfait particulier pour utiliser le service Appels Wi-Fi?",
+      "p5": "Pour utiliser le service Appels Wi-Fi, vous devez avoir activé la fonction Appels Wi-Fi dans vos paramètres, sur un appareil TELUS compatible équipé d'une carte SIM. Vous devez également être abonné à un forfait sans-fil voix, messagerie et données postpayé de TELUS.",
+      "h4": "3. De quel type de connexion Wi-Fi ai-je besoin pour utiliser le service Appels Wi-Fi?",
+      "p6": "Pour utiliser le service Appels Wi-Fi, vous devez avoir accès à une connexion Wi-Fi publique ou privée. Lors de l'utilisation du service Appels Wi-Fi, vous utiliserez des données Internet sur la connexion Wi-Fi. Des frais de service Internet et des frais d'utilisation excédentaire s'appliquent selon les modalités de votre forfait Internet de TELUS ou d'un tiers fournisseur de service. Si vous faites appel à un tiers fournisseur de service Internet pour accéder au service Appels Wi-Fi, TELUS n'est responsable d'aucun problème avec votre service Internet et il vous incombe de régler ces problèmes avec votre fournisseur de service Internet.",
+      "h5": "4. Comment est calculé le service Appels Wi-Fi lorsqu'il est utilisé au Canada?",
+      "p7": "Tous les messages et appels reçus au moyen de la fonction Appels Wi-Fi lorsque vous êtes au Canada, et tous les appels et les messages vers un numéro canadien à partir du Canada au moyen de la fonction Appels Wi-Fi seront déduits des lots de temps d’antenne et de messages compris dans votre forfait de services mobiles, et le service interurbain ne sera pas facturé. Les tarifs payables à l’usage en vigueur s’appliquent dès que votre consommation dépasse celle comprise dans votre forfait. Tous les appels et les messages vers un numéro non canadien seront facturés en fonction des tarifs payables à l’usage, à moins que votre forfait indique des tarifs différents, et le service interurbain sera facturé en fonction de votre forfait de services mobiles.",
+      "h6": "5. Puis-je utiliser le service Appels Wi-Fi lorsque je voyage à l'extérieur du Canada?",
+      "p8": "Vous ne pouvez pas utiliser le service Appels Wi-Fi lorsque vous voyagez à l'extérieur du Canada.",
+      "h7": "6. Le service Appels Wi-Fi présente-t-il des vulnérabilités?",
+      "p9": "Oui. De nombreux réseaux Wi-Fi (p. ex., les réseaux Wi-Fi publics) n’offrent aucun niveau de chiffrement (WEP, WPA ni autre mécanisme de chiffrement et d’authentification); il est donc fortement recommandé, et cette responsabilité vous incombe, de vous assurer que votre appareil est configuré de façon sécurisée. Les appareils utilisant des connexions Wi-Fi peuvent être vulnérables à des tentatives non autorisées d’accès aux données et aux logiciels stockés sur l’appareil.",
+      "h8": "7. Comment fonctionne le service d'urgence 9-1-1 pour le service Appels Wi-Fi?",
+      "p10": "CETTE SECTION CONTIENT DES RENSEIGNEMENTS IMPORTANTS AU SUJET DES PARTICULARITÉS ET DES LIMITES PROPRES AU SERVICE D'URGENCE 9-1-1 ASSOCIÉ AU SERVICE APPELS WI-FI. VEUILLEZ LA LIRE ATTENTIVEMENT.",
+      "p11": "Lorsque vous utilisez le service Appels Wi-Fi, vous reconnaissez et acceptez les renseignements qui se trouvent dans la présente section au sujet des limites relatives à l'utilisation du service Appels Wi-Fi pour un appel au service d'urgence 9-1-1. Si vous n'êtes pas à l'aise avec ces limites, nous vous recommandons de ne pas utiliser le service Appels Wi-Fi ou d'envisager une solution de rechange pour pouvoir accéder aux services d'urgence 9-1-1 traditionnels. Nous vous recommandons de conserver un service téléphonique de rechange pratique afin d'augmenter la fiabilité de votre accès aux services d'urgence au cours de toute interruption de service. Remarque : Le service Appels Wi-Fi ne permet pas les appels d'urgence effectués depuis l'extérieur du Canada.Veuillez vous assurer d'être bien connecté à un réseau mobile lorsque vous essayez d'effectuer un appel d'urgence depuis l'extérieur du Canada de sorte que celui-ci puisse être acheminé aux services d'urgence les plus près. Vous convenez d'informer toutes les personnes qui utilisent le service Appels Wi-Fi sur votre appareil des limites et exigences qui suivent.<br><br>A) Votre adresse d'urgence pour le service 9-1-1. Lorsque vous activerez pour la première fois le service Appels Wi-Fi sur votre appareil, on vous demandera de fournir l'adresse complète de l'emplacement le plus probable pour votre appareil (votre « Adresse d'urgence pour le service 9-1-1 »). Vous ne pouvez inscrire qu'une (1) seule Adresse d'urgence pour le service 9-1-1 (vous devriez mettre à jour cette adresse de temps à autre en fonction du nouvel emplacement de votre connexion Wi-Fi) et celle-ci doit être située au Canada.<br><br>B) Effectuer des appels au 9-1-1. Si vous composez le 9-1-1 au moyen du service Appels Wi-Fi, l’emplacement de votre appel d’urgence n’est pas transmis au centre de prise d'appels pour la sécurité du public (« CPASP ») le plus près. Votre appel est acheminé à un centre de prise d'appels d'urgence TELUS spécialisé qui transférera votre appel au CPASP approprié en utilisant l'Adresse d'urgence pour le service 9-1-1 que vous avez précisée ou en fonction de l'emplacement que vous avez fourni au répartiteur du service d'urgence 9-1-1. Lorsque vous composez le 9-1-1 au moyen du service Appels Wi-Fi, vous devez informer sans tarder le répartiteur du service 9-1-1 de votre emplacement (ou de l'emplacement de l'urgence, s'il est différent) si vous êtes en mesure de le faire. Il est important que vous ne raccrochiez pas à moins que vous ne receviez cette directive, et, si l'appel est interrompu, composez de nouveau le 9-1-1 immédiatement. Vous devez également être prêt à donner au répartiteur du service 9-1-1 le numéro auquel on peut vous joindre. Si vous utilisez le service Appels Wi-Fi pour composer le 9-1-1 et que vous perdez la connexion Wi-Fi, votre appel 9-1-1 sera interrompu et le centre de prise d'appels d'urgence spécialisé ou le CPASP ne sera pas en mesure de rétablir une connexion avec vous. Dans un tel cas, composez de nouveau le 9-1-1.<br><br>C) Exactitude des renseignements du 9-1-1. Vous acceptez de fournir à TELUS une Adresse d'urgence pour le service 9-1-1 ainsi que d'autres renseignements véridiques, exacts, actualisés et complets et vous reconnaissez que vous êtes responsable de la mise à jour de l'Adresse d'urgence pour le service 9-1-1 se rapportant à votre appareil en fonction de l'emplacement actuel de votre connexion Wi-Fi. Si vous ne mettez pas à jour votre Adresse d'urgence pour le service 9-1-1 et ne désignez pas correctement l'emplacement de l'urgence, les appels au service 9-1-1 faits par l'entremise du service Appels Wi-Fi seront acheminés en fonction de votre Adresse d'urgence pour le service 9-1-1 fournie antérieurement et ils peuvent donc être acheminés à un CPASP ne correspondant pas à l'emplacement de l'urgence. Si vous êtes incapable de parler, le répartiteur pourrait ne pas être en mesure de vous localiser si vous avez omis de mettre à jour votre Adresse d'urgence pour le service 9-1-1. Vous pouvez mettre à jour votre Adresse d'urgence pour le service 9-1-1 dans la section des paramètres de votre appareil. Au cours de certaines périodes, les mises à jour à votre Adresse d'urgence pour le service 9-1-1 pourraient ne pas s'actualiser instantanément (par exemple, pendant les périodes de maintenance des TI).<br><br>D) Temps de connexion et difficultés techniques. L'accès au service d'urgence 9-1-1 ne fonctionnera pas si le point d'accès à Internet et au réseau Wi-Fi sous-jacent n'est pas configuré correctement, n'offre pas la bande passante nécessaire pour acheminer un appel, ou si la fonction du service Appels Wi-Fi ne fonctionne pas pour une raison quelconque, notamment en raison d'une panne de courant, d'une panne ou d'une suspension du service Wi-Fi ou du service de large bande, d'une congestion ou d'une déconnexion du réseau ou d'Internet, d'une panne du réseau mobile ou d'un arrêt de service en raison de problèmes de facturation ou d'un manquement à ces Modalités.<br><br>E) Le service 911-Texte (T911) et le service Appels Wi-Fi. Le service Appels Wi-Fi n'est pas compatible avec le service T911. Pour utiliser le service T911, vous devrez le faire par l'entremise d'un réseau mobile et vous devrez au préalable vous inscrire comme utilisateur du service T911 auprès de TELUS. Pour en savoir plus sur le service T911, visitez l'adresse suivante : http://textwith911.ca.",
+      "h9": "8. Est-ce que le service Appels Wi-Fi sera toujours disponible?",
+      "p12": "Le service Appels Wi-Fi vous est offert tel quel et dans la mesure où il est disponible, mais aucune garantie ne peut être donnée quant à la continuité du service et quant à la qualité du service, puisque celles-ci dépendent des réseaux Internet publics ou privés et(ou) des réseaux mobiles.",
+      "h10": "9. Quelle est la limitation de responsabilité de TELUS à l’égard du service Appels Wi-Fi?",
+      "p13": "Dans la mesure permise par les lois applicables, TELUS n’assume aucune responsabilité envers quiconque pour tous dommages, qu’ils soient directs, indirects, particuliers, consécutifs, accessoires, économiques, exemplaires ou punitifs, résultant directement ou indirectement d’une incapacité d’accéder au service 9-1-1 ou d’utiliser le service Appels Wi-Fi en raison des limitations ci-dessus, ou du défaut de votre part à satisfaire aux exigences susmentionnées.",
+      "b1": "D’accord"
+    },
+    "e911-landing": {
+      "h1": "Votre adresse en cas d’urgence pour cette montre",
+      "p1": "Fournit une adresse à jour et pertinente en cas d’urgence.",
+      "h2": "Pourquoi est-ce important?",
+      "p2": "Le personnel d’urgence n’est pas en mesure de vous localiser lorsque vous faites le 911 avec la fonction d’appels Wi-Fi.",
+      "p3": "Si vous n’arrivez pas à parler, de l’aide sera envoyée à cette adresse.",
+      
+      "h3": "Utiliser mon adresse de facturation",
+      "a1": "Continuer",
+      "h4": "Entrer une autre adresse",
+      "a2": "Remplir les formulaires"
+    },
+    "e911-form": {
+      "h1": "Entrez votre adresse en cas d’urgence pour cette montre",
+      "h2": "Modifiez votre adresse en cas d’urgence pour cette montre",
+      "a1": "Obtenir ma position actuelle",
+      "h3": "Un problème est survenu!",
+      "p3": "Nous n’avons pas pu enregistrer votre adresse. Veuillez réessayer.",
+ 
+      "l0": "No d’unité (facultatif)",
+      "l1": "Adresse",
+      "l3": "Ville",
+      "l4": "Province",
+      "l5": "Code postal",
+      "prov": {
+        "default": "Sélectionnez la province",
+        "ab": "Alberta",
+        "bc": "Colombie-Britannique",
+        "mb": "Manitoba",
+        "nb": "Nouveau-Brunswick",
+        "nl": "Terre-Neuve-et-Labrador",
+        "ns": "Nouvelle-Écosse",
+        "on": "Ontario",
+        "pe": "Île-du-Prince-Édouard",
+        "qc": "Québec",
+        "sk": "Saskatchewan",
+        "nt": "Territoires du Nord-Ouest",
+        "nu": "Nunavut",
+        "yt": "Yukon"
+      },
+      "b1": "Continuer",
+      "errors": {
+        "address": "Veuillez entrer une adresse",
+        "city": "Veuillez entrer une ville",
+        "prov": "Veuillez sélectionner une province",
+        "postal": "Veuillez entrer un code postal valide"
+      }
+    },
+    "s4": {
+      "h1": "Confirmez votre adresse",
+      "b1": "Utiliser une autre adresse",
+      "b2": "Revenir en arrière et apporter des modifications",
+      "div": " - ",
+      "b3": "Confirmation"
+    },
+    "s5": {
+      "h1": "Abonnez-vous à l’option de montre",
+      "l1": "Les appels et textos que vous recevez sur votre téléphone sont aussi envoyés sur votre montre",
+      "l2": "1 Go de données additionnelles à partager entre votre montre et votre téléphone",
+      "l3": "La montre utilise les minutes, les messages et les données de votre forfait de téléphone",
+      "p1": "0 $ par mois pendant 3 mois <br> prix courant par la suite",
+
+      "p2": "$",
+      "h3": "10",
+      "p3": "par mois",
+      "p4": "20 $ frais de connexion unique, facturés sur votre prochaine facture",
+      "b1": "Accepter"
+    },
+    "s6": {
+      "h1": "Vous avez presque terminé...",
+      "p1": "Chargement...",
+      "b1": "Terminer",
+ 
+      "h2": "Merci",
+      "p2": "Terminé"
+    },
+    "d2s1": {
+      "h1": "Gérer la montre connectée",
+ 
+      "h2": "Adresse en cas d’urgence pour cette montre",
+      "a1": "Modifier mon adresse",
+ 
+      "h3": "Gérer ou annuler la montre",
+      "p2": "Pour modifier votre abonnement aux services de voix et de données de TELUS sur cette montre, veuillez suivre cette option.",
+      "a2": "Nous joindre",
+ 
+      "helper": "<strong>Remarque :</strong> TELUS peut mettre en service un maximum de cinq montres. Pour cette raison, cette montre ne peut être mise en service avec une nouvelle option.",
+      "helper2": "Adresse modifiée pour cette montre."
+    },
+    "d2s2": {
+      "h1": "Gérer une nouvelle montre",
+ 
+      "h2": "Configurer cette montre",
+      "p1": "Configurer la connectivité cellulaire pour votre nouvelle montre.",
+      "a1": "En savoir plus",
+ 
+      "h3": "Remplacer une montre existante",
+      "p2": "Transférer la connectivité cellulaire d’une montre connectée sur une nouvelle montre.",
+      "a2": "En savoir plus"
+    },
+    "d2s3": {
+      "h1": "Choisir une montre à remplacer",
+      "p1": "Remplacer une montre connectée :",
+      "p2": "Connecté depuis ",
+      "b1": "Continuer"
+    },
+    "d2s4": {
+      "h1": "Confirmer le remplacement",
+ 
+      "p1": "Débrancher cette montre :",
+      "p2": "Débranchement dès aujourd’hui",
+ 
+      "p3": "Mettre en service cette montre :",
+      "p4": "Mise en service dès aujourd’hui",
+     
+      "a1": "Choisir de nouveau",
+      "b1": "Remplacer"
+    },
+    "help": {
+      "h1": "Votre montre a été mise en service.",
+      "p1": "Pour bénéficier d’une meilleure expérience, veuillez configurer le paramètre suivant.",
+
+      "p2": "Allez dans:",
+      "p3": "Réglages",
+      "p4": "Réseau cellulaire",
+      "p5": "Options de données cellulaires",
+      "p6": "Activez le réseau LTE",
+      "p7": "Activez Voix et données ",
+
+      "a1": "Fermer"
+    }
+  }
